@@ -20,7 +20,7 @@
 
 -->
 
-<h3 align="center">Sync Obsidian</h3>
+<h3 align="center">Obsidian Sync</h3>
 
   <p align="center">
     Simple script to sync your obsidian vault to GitHub for free.
